@@ -31,3 +31,5 @@ Aplicativo de Notícias Fiscais
 
 - List View ✔️
 
+#### Domínio em Produção (vercel)
+https://fiscalnews.vercel.app/#
