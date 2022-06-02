@@ -15,7 +15,7 @@ Aplicativo de Notícias Fiscais
 - Tela Menu (Funcionalidade✔️ e usuario logado✔️)
 
 - Widgets para utilizar:
----> Appbar; ✔️
+---> Appbar; ✔️<br>
 ---> Botões; ✔️
 ---> Column e Row; ✔️
 ---> Container; ✔️
