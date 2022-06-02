@@ -14,17 +14,17 @@ Aplicativo de Notícias Fiscais
 
 - Tela Menu (Funcionalidade✔️ e usuario logado✔️)
 
-- Widgets para utilizar:
+- Widgets para utilizar:<br>
 ---> Appbar; ✔️<br>
----> Botões; ✔️
----> Column e Row; ✔️
----> Container; ✔️
----> Icon; ✔️
----> Image; ✔️
----> Padding ✔️ e Margin✔️;
----> Scaffold; ✔️
----> Text; ✔️
----> TextField (ou TextFormField).✔️
+---> Botões; ✔️<br>
+---> Column e Row; ✔️<br>
+---> Container; ✔️<br>
+---> Icon; ✔️<br>
+---> Image; ✔️<br>
+---> Padding ✔️ e Margin✔️;<br>
+---> Scaffold; ✔️<br>
+---> Text; ✔️<br>
+---> TextField (ou TextFormField).✔️<br>
 
 
 - Exibir mensagem em caixas de diálogos (AlertDialog, SimpleDialog, Snackbar) ✔️
